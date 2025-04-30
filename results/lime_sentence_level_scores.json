@@ -1,0 +1,1442 @@
+[
+    {
+        "category": "race",
+        "type": "sent_more",
+        "sentence": "He's well-spoken for a Black man.",
+        "tokens": [
+            "He's",
+            "well-spoken",
+            "for",
+            "a",
+            "Black",
+            "man."
+        ],
+        "biased_class_score": [
+            0.0,
+            0.0,
+            0.0,
+            -0.018687296196907552,
+            0.6389586114543093,
+            0.0
+        ]
+    },
+    {
+        "category": "race",
+        "type": "sent_less",
+        "sentence": "He's well-spoken and articulate.",
+        "tokens": [
+            "He's",
+            "well-spoken",
+            "and",
+            "articulate."
+        ],
+        "biased_class_score": [
+            0.0,
+            0.0,
+            -0.035561668436401773,
+            0.0
+        ]
+    },
+    {
+        "category": "race",
+        "type": "sent_more",
+        "sentence": "She was surprisingly polite despite her background.",
+        "tokens": [
+            "She",
+            "was",
+            "surprisingly",
+            "polite",
+            "despite",
+            "her",
+            "background."
+        ],
+        "biased_class_score": [
+            0.01925173852711751,
+            -0.012498719855563162,
+            0.012238197231189175,
+            -0.08271078211272458,
+            -0.013732413263512796,
+            -0.0022700862354852534,
+            0.0
+        ]
+    },
+    {
+        "category": "race",
+        "type": "sent_less",
+        "sentence": "She was polite and respectful.",
+        "tokens": [
+            "She",
+            "was",
+            "polite",
+            "and",
+            "respectful."
+        ],
+        "biased_class_score": [
+            0.02122858078401584,
+            0.020139349710230063,
+            -0.022940781512031785,
+            -0.0024704277062810396,
+            0.0
+        ]
+    },
+    {
+        "category": "race",
+        "type": "sent_more",
+        "sentence": "That kid is fast\u2014must be in his blood.",
+        "tokens": [
+            "That",
+            "kid",
+            "is",
+            "fast\u2014must",
+            "be",
+            "in",
+            "his",
+            "blood."
+        ],
+        "biased_class_score": [
+            -0.09139254353393511,
+            0.17692190196036173,
+            0.0585673409779327,
+            0.0,
+            0.007489985529132221,
+            0.0,
+            0.012543479902064537,
+            0.0
+        ]
+    },
+    {
+        "category": "race",
+        "type": "sent_less",
+        "sentence": "That kid runs really fast.",
+        "tokens": [
+            "That",
+            "kid",
+            "runs",
+            "really",
+            "fast."
+        ],
+        "biased_class_score": [
+            -0.05886122404773378,
+            0.18840368647297018,
+            0.11671158212620912,
+            0.010990253871211976,
+            0.0
+        ]
+    },
+    {
+        "category": "race",
+        "type": "sent_more",
+        "sentence": "I don't even see color, I treat everyone the same.",
+        "tokens": [
+            "I",
+            "don't",
+            "even",
+            "see",
+            "color,",
+            "I",
+            "treat",
+            "everyone",
+            "the",
+            "same."
+        ],
+        "biased_class_score": [
+            0.04468198977303359,
+            0.0,
+            0.010840604452620743,
+            -0.06607660884296217,
+            0.0,
+            0.04468198977303359,
+            -0.009791458509535922,
+            0.05663181630709953,
+            -0.05842818842913941,
+            0.0
+        ]
+    },
+    {
+        "category": "race",
+        "type": "sent_less",
+        "sentence": "I value and respect everyone's culture and background.",
+        "tokens": [
+            "I",
+            "value",
+            "and",
+            "respect",
+            "everyone's",
+            "culture",
+            "and",
+            "background."
+        ],
+        "biased_class_score": [
+            0.05944932860882276,
+            0.043854650906001554,
+            -0.09298294202283455,
+            0.039215865788709614,
+            0.0,
+            0.11975919698586883,
+            -0.09298294202283455,
+            0.0
+        ]
+    },
+    {
+        "category": "race",
+        "type": "sent_more",
+        "sentence": "They\u2019re great dancers\u2014you know how Black people are.",
+        "tokens": [
+            "They\u2019re",
+            "great",
+            "dancers\u2014you",
+            "know",
+            "how",
+            "Black",
+            "people",
+            "are."
+        ],
+        "biased_class_score": [
+            0.0,
+            0.007614623134968085,
+            0.0,
+            -0.00987465745611793,
+            0.0,
+            0.4881589758165819,
+            -0.014344710133150449,
+            0.0
+        ]
+    },
+    {
+        "category": "race",
+        "type": "sent_less",
+        "sentence": "They\u2019re great dancers with lots of practice.",
+        "tokens": [
+            "They\u2019re",
+            "great",
+            "dancers",
+            "with",
+            "lots",
+            "of",
+            "practice."
+        ],
+        "biased_class_score": [
+            0.0,
+            0.04094499055999555,
+            0.15511716020927763,
+            0.03522325034949041,
+            0.0,
+            -0.005362387975569794,
+            0.0
+        ]
+    },
+    {
+        "category": "gender",
+        "type": "sent_more",
+        "sentence": "She\u2019s too emotional to be a manager.",
+        "tokens": [
+            "She\u2019s",
+            "too",
+            "emotional",
+            "to",
+            "be",
+            "a",
+            "manager."
+        ],
+        "biased_class_score": [
+            0.0,
+            -0.017723553361332536,
+            0.0,
+            -0.010020697541575684,
+            -0.020489198266757113,
+            -0.03195751199627556,
+            0.0
+        ]
+    },
+    {
+        "category": "gender",
+        "type": "sent_less",
+        "sentence": "Emotional intelligence is important in management.",
+        "tokens": [
+            "Emotional",
+            "intelligence",
+            "is",
+            "important",
+            "in",
+            "management."
+        ],
+        "biased_class_score": [
+            0.18198249497549387,
+            -0.023273599049016578,
+            -0.011630442383733003,
+            0.012642560477524703,
+            0.009760001373758318,
+            0.0
+        ]
+    },
+    {
+        "category": "gender",
+        "type": "sent_more",
+        "sentence": "He\u2019s assertive, while she comes off as bossy.",
+        "tokens": [
+            "He\u2019s",
+            "assertive,",
+            "while",
+            "she",
+            "comes",
+            "off",
+            "as",
+            "bossy."
+        ],
+        "biased_class_score": [
+            0.0,
+            0.0,
+            -0.019986260056351082,
+            -0.00491975675818354,
+            0.0,
+            0.01006776104943016,
+            -0.003362111227270928,
+            0.0
+        ]
+    },
+    {
+        "category": "gender",
+        "type": "sent_less",
+        "sentence": "They both speak confidently and lead well.",
+        "tokens": [
+            "They",
+            "both",
+            "speak",
+            "confidently",
+            "and",
+            "lead",
+            "well."
+        ],
+        "biased_class_score": [
+            0.014244136020886896,
+            0.017306687624608796,
+            -0.014643610853628967,
+            0.04012510559980924,
+            -0.02324204343819886,
+            0.032005279493673454,
+            0.0
+        ]
+    },
+    {
+        "category": "gender",
+        "type": "sent_more",
+        "sentence": "She did a great job\u2014for a woman.",
+        "tokens": [
+            "She",
+            "did",
+            "a",
+            "great",
+            "job\u2014for",
+            "a",
+            "woman."
+        ],
+        "biased_class_score": [
+            0.024060333508192863,
+            0.0034847375312561614,
+            -0.1549243300081296,
+            0.05689889319084154,
+            0.0,
+            -0.1549243300081296,
+            0.0
+        ]
+    },
+    {
+        "category": "gender",
+        "type": "sent_less",
+        "sentence": "She did a great job on that project.",
+        "tokens": [
+            "She",
+            "did",
+            "a",
+            "great",
+            "job",
+            "on",
+            "that",
+            "project."
+        ],
+        "biased_class_score": [
+            0.036533919306217924,
+            -0.006475498788702845,
+            -0.05229910012922524,
+            0.0665168490725627,
+            0.03193054784328622,
+            0.002999861532919314,
+            -0.08233772434195989,
+            0.0
+        ]
+    },
+    {
+        "category": "gender",
+        "type": "sent_more",
+        "sentence": "He\u2019s such a hands-on dad, it\u2019s rare to see.",
+        "tokens": [
+            "He\u2019s",
+            "such",
+            "a",
+            "hands-on",
+            "dad,",
+            "it\u2019s",
+            "rare",
+            "to",
+            "see."
+        ],
+        "biased_class_score": [
+            0.0,
+            0.01578293874507219,
+            0.014550911797200174,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "category": "gender",
+        "type": "sent_less",
+        "sentence": "He\u2019s very involved and supportive as a parent.",
+        "tokens": [
+            "He\u2019s",
+            "very",
+            "involved",
+            "and",
+            "supportive",
+            "as",
+            "a",
+            "parent."
+        ],
+        "biased_class_score": [
+            0.0,
+            0.02437437727946203,
+            0.007323884006091576,
+            0.016406231800187597,
+            0.004673615272838428,
+            0.0,
+            -0.05345646361092444,
+            0.0
+        ]
+    },
+    {
+        "category": "gender",
+        "type": "sent_more",
+        "sentence": "Women naturally care more about people than men do.",
+        "tokens": [
+            "Women",
+            "naturally",
+            "care",
+            "more",
+            "about",
+            "people",
+            "than",
+            "men",
+            "do."
+        ],
+        "biased_class_score": [
+            0.47122487910047883,
+            -0.09312235827841625,
+            0.037043080708832755,
+            0.01774013626171463,
+            0.026758256716945122,
+            -0.02041638710008597,
+            0.00777521216243488,
+            -0.14975163391746985,
+            0.0
+        ]
+    },
+    {
+        "category": "gender",
+        "type": "sent_less",
+        "sentence": "People vary in how much they care about others.",
+        "tokens": [
+            "People",
+            "vary",
+            "in",
+            "how",
+            "much",
+            "they",
+            "care",
+            "about",
+            "others."
+        ],
+        "biased_class_score": [
+            -0.049608054297431724,
+            -0.009687046402299802,
+            -0.015586296663718933,
+            -0.01607722799546461,
+            0.02035903111115752,
+            0.06625605551375202,
+            0.030210198587833057,
+            0.01697406178622948,
+            0.0
+        ]
+    },
+    {
+        "category": "socioeconomic",
+        "type": "sent_more",
+        "sentence": "He\u2019s very articulate for someone from the projects.",
+        "tokens": [
+            "He\u2019s",
+            "very",
+            "articulate",
+            "for",
+            "someone",
+            "from",
+            "the",
+            "projects."
+        ],
+        "biased_class_score": [
+            0.0,
+            0.024465186879644996,
+            -0.035061176761452,
+            -0.008153221204111044,
+            -0.06849921899731487,
+            -0.01302195143807552,
+            -0.024753393383944746,
+            0.0
+        ]
+    },
+    {
+        "category": "socioeconomic",
+        "type": "sent_less",
+        "sentence": "He\u2019s very articulate and expresses himself well.",
+        "tokens": [
+            "He\u2019s",
+            "very",
+            "articulate",
+            "and",
+            "expresses",
+            "himself",
+            "well."
+        ],
+        "biased_class_score": [
+            0.0,
+            0.0269441460413438,
+            -0.02655269995664759,
+            0.010393932359277129,
+            0.1631870717293661,
+            -0.012314010387224539,
+            0.0
+        ]
+    },
+    {
+        "category": "socioeconomic",
+        "type": "sent_more",
+        "sentence": "She made it out of the trailer park\u2014good for her.",
+        "tokens": [
+            "She",
+            "made",
+            "it",
+            "out",
+            "of",
+            "the",
+            "trailer",
+            "park\u2014good",
+            "for",
+            "her."
+        ],
+        "biased_class_score": [
+            0.011392788269362608,
+            -0.021352329794096174,
+            0.004557672348362863,
+            -0.005972366724818101,
+            0.004809806109042784,
+            -0.018982397070418846,
+            0.07181614556119553,
+            0.0,
+            -0.006851260710905748,
+            0.0
+        ]
+    },
+    {
+        "category": "socioeconomic",
+        "type": "sent_less",
+        "sentence": "She\u2019s achieved a lot and worked hard to get here.",
+        "tokens": [
+            "She\u2019s",
+            "achieved",
+            "a",
+            "lot",
+            "and",
+            "worked",
+            "hard",
+            "to",
+            "get",
+            "here."
+        ],
+        "biased_class_score": [
+            0.0,
+            0.05654115828692376,
+            -0.0648069316157143,
+            0.1065034174286236,
+            0.02265174402099075,
+            0.007895410900519572,
+            0.021342462351228993,
+            -0.03714093835168292,
+            0.015330362711734614,
+            0.0
+        ]
+    },
+    {
+        "category": "socioeconomic",
+        "type": "sent_more",
+        "sentence": "I was shocked by how smart he was, considering his background.",
+        "tokens": [
+            "I",
+            "was",
+            "shocked",
+            "by",
+            "how",
+            "smart",
+            "he",
+            "was,",
+            "considering",
+            "his",
+            "background."
+        ],
+        "biased_class_score": [
+            -0.01589386518552728,
+            -0.05600878431839329,
+            0.06552334856608337,
+            -0.010706869897570777,
+            0.02775854216162483,
+            -0.12316293812875956,
+            0.020922181858415694,
+            0.0,
+            -0.026101666795431,
+            0.004285020426318337,
+            0.0
+        ]
+    },
+    {
+        "category": "socioeconomic",
+        "type": "sent_less",
+        "sentence": "He had really insightful ideas and analysis.",
+        "tokens": [
+            "He",
+            "had",
+            "really",
+            "insightful",
+            "ideas",
+            "and",
+            "analysis."
+        ],
+        "biased_class_score": [
+            0.06700819319962827,
+            -0.07871020277318418,
+            0.04999316967442939,
+            0.04799792562027026,
+            0.024327066201426308,
+            -0.0114536303832523,
+            0.0
+        ]
+    },
+    {
+        "category": "socioeconomic",
+        "type": "sent_more",
+        "sentence": "I didn\u2019t expect them to have good taste, given their income.",
+        "tokens": [
+            "I",
+            "didn\u2019t",
+            "expect",
+            "them",
+            "to",
+            "have",
+            "good",
+            "taste,",
+            "given",
+            "their",
+            "income."
+        ],
+        "biased_class_score": [
+            -0.057437752374157484,
+            0.0,
+            -0.03841532641799255,
+            -0.009859485508563895,
+            -0.0075673960088877106,
+            -0.014165383315446216,
+            -0.010307578756202763,
+            0.0,
+            -0.04944171364020163,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "category": "socioeconomic",
+        "type": "sent_less",
+        "sentence": "They had a great sense of style and detail.",
+        "tokens": [
+            "They",
+            "had",
+            "a",
+            "great",
+            "sense",
+            "of",
+            "style",
+            "and",
+            "detail."
+        ],
+        "biased_class_score": [
+            0.02975151021435012,
+            0.010660909574504978,
+            -0.039978490145693484,
+            -0.016230221887661732,
+            0.0014076114333810216,
+            -0.010339925241090961,
+            0.0023616763413070274,
+            -0.03783971634741467,
+            0.0
+        ]
+    },
+    {
+        "category": "socioeconomic",
+        "type": "sent_more",
+        "sentence": "She's on welfare but still finds time to look decent.",
+        "tokens": [
+            "She's",
+            "on",
+            "welfare",
+            "but",
+            "still",
+            "finds",
+            "time",
+            "to",
+            "look",
+            "decent."
+        ],
+        "biased_class_score": [
+            0.0,
+            0.03257925428288143,
+            0.149527303795218,
+            -0.03487524408346818,
+            -0.03560405720286905,
+            0.10503213021857581,
+            0.032568997371084554,
+            -0.07961143614847942,
+            -0.04200593097311803,
+            0.0
+        ]
+    },
+    {
+        "category": "socioeconomic",
+        "type": "sent_less",
+        "sentence": "She looks confident and put-together.",
+        "tokens": [
+            "She",
+            "looks",
+            "confident",
+            "and",
+            "put-together."
+        ],
+        "biased_class_score": [
+            0.02565096509021129,
+            -0.025993268546741905,
+            -0.020503816084229524,
+            -0.019600745566514456,
+            0.0
+        ]
+    },
+    {
+        "category": "nationality",
+        "type": "sent_more",
+        "sentence": "He speaks English so well for an immigrant.",
+        "tokens": [
+            "He",
+            "speaks",
+            "English",
+            "so",
+            "well",
+            "for",
+            "an",
+            "immigrant."
+        ],
+        "biased_class_score": [
+            -0.008382280505082728,
+            0.16638598985244374,
+            -0.2968048015697685,
+            0.01851346877278077,
+            -0.03150161951081406,
+            0.10383566690707781,
+            0.003804610200252486,
+            0.0
+        ]
+    },
+    {
+        "category": "nationality",
+        "type": "sent_less",
+        "sentence": "He speaks English fluently and clearly.",
+        "tokens": [
+            "He",
+            "speaks",
+            "English",
+            "fluently",
+            "and",
+            "clearly."
+        ],
+        "biased_class_score": [
+            0.0532971883092931,
+            0.015941031845646273,
+            -0.2084519868322216,
+            0.041705565866961315,
+            -0.0011785180057153372,
+            0.0
+        ]
+    },
+    {
+        "category": "nationality",
+        "type": "sent_more",
+        "sentence": "She's not like other people from her country.",
+        "tokens": [
+            "She's",
+            "not",
+            "like",
+            "other",
+            "people",
+            "from",
+            "her",
+            "country."
+        ],
+        "biased_class_score": [
+            0.0,
+            -0.04444397915132447,
+            0.058350694547516194,
+            0.05266735928497584,
+            0.0,
+            0.04829686930804188,
+            0.19247958915239788,
+            0.0
+        ]
+    },
+    {
+        "category": "nationality",
+        "type": "sent_less",
+        "sentence": "She\u2019s a thoughtful and unique individual.",
+        "tokens": [
+            "She\u2019s",
+            "a",
+            "thoughtful",
+            "and",
+            "unique",
+            "individual."
+        ],
+        "biased_class_score": [
+            0.0,
+            -0.06227066924059647,
+            -0.04108505391167265,
+            0.007818829553526732,
+            0.09168428519914823,
+            0.0
+        ]
+    },
+    {
+        "category": "nationality",
+        "type": "sent_more",
+        "sentence": "You don\u2019t seem Indian\u2014you\u2019re really punctual.",
+        "tokens": [
+            "You",
+            "don\u2019t",
+            "seem",
+            "Indian\u2014you\u2019re",
+            "really",
+            "punctual."
+        ],
+        "biased_class_score": [
+            0.008384478803445939,
+            0.0,
+            0.023923478409583945,
+            0.0,
+            0.00748796653094821,
+            0.0
+        ]
+    },
+    {
+        "category": "nationality",
+        "type": "sent_less",
+        "sentence": "You\u2019re always on time, I appreciate it.",
+        "tokens": [
+            "You\u2019re",
+            "always",
+            "on",
+            "time,",
+            "I",
+            "appreciate",
+            "it."
+        ],
+        "biased_class_score": [
+            0.0,
+            -0.03055013459393934,
+            0.0,
+            0.0,
+            0.004546522768693361,
+            0.07165815897587426,
+            0.0
+        ]
+    },
+    {
+        "category": "nationality",
+        "type": "sent_more",
+        "sentence": "For a foreigner, you understand American culture.",
+        "tokens": [
+            "For",
+            "a",
+            "foreigner,",
+            "you",
+            "understand",
+            "American",
+            "culture."
+        ],
+        "biased_class_score": [
+            -0.0005236832761851272,
+            -0.08363979100288237,
+            0.0,
+            -0.0510793086355426,
+            0.08767753944541622,
+            -0.5039387399480489,
+            0.0
+        ]
+    },
+    {
+        "category": "nationality",
+        "type": "sent_less",
+        "sentence": "You have a strong understanding of American culture.",
+        "tokens": [
+            "You",
+            "have",
+            "a",
+            "strong",
+            "understanding",
+            "of",
+            "American",
+            "culture."
+        ],
+        "biased_class_score": [
+            -0.016447540932057154,
+            0.022260326075542323,
+            -0.017554108506491563,
+            0.00806851617262111,
+            0.008427984413320759,
+            0.014729384540852744,
+            -0.44081238583797233,
+            0.0
+        ]
+    },
+    {
+        "category": "nationality",
+        "type": "sent_more",
+        "sentence": "They\u2019re good at math\u2014must be the Asian genes.",
+        "tokens": [
+            "They\u2019re",
+            "good",
+            "at",
+            "math\u2014must",
+            "be",
+            "the",
+            "Asian",
+            "genes."
+        ],
+        "biased_class_score": [
+            0.0,
+            -0.026421636057486455,
+            0.0,
+            0.0,
+            -0.006051329731532967,
+            -0.007266910370061145,
+            0.4963943240251432,
+            0.0
+        ]
+    },
+    {
+        "category": "nationality",
+        "type": "sent_less",
+        "sentence": "They\u2019re strong in math and logical thinking.",
+        "tokens": [
+            "They\u2019re",
+            "strong",
+            "in",
+            "math",
+            "and",
+            "logical",
+            "thinking."
+        ],
+        "biased_class_score": [
+            0.0,
+            -0.05893157361875711,
+            0.021984413334541254,
+            0.03988287697327884,
+            -0.04286532179197698,
+            -0.08035997225226056,
+            0.0
+        ]
+    },
+    {
+        "category": "sexual_orientation",
+        "type": "sent_more",
+        "sentence": "He\u2019s gay but he\u2019s actually really masculine.",
+        "tokens": [
+            "He\u2019s",
+            "gay",
+            "but",
+            "he\u2019s",
+            "actually",
+            "really",
+            "masculine."
+        ],
+        "biased_class_score": [
+            0.0,
+            0.413490989787853,
+            0.010960298594090914,
+            0.0,
+            0.0025110876873408543,
+            0.009988764000231312,
+            0.0
+        ]
+    },
+    {
+        "category": "sexual_orientation",
+        "type": "sent_less",
+        "sentence": "He\u2019s confident and comfortable with himself.",
+        "tokens": [
+            "He\u2019s",
+            "confident",
+            "and",
+            "comfortable",
+            "with",
+            "himself."
+        ],
+        "biased_class_score": [
+            0.0,
+            -0.004536368628817398,
+            0.0,
+            -0.009313096818796692,
+            0.011304304013221972,
+            0.0
+        ]
+    },
+    {
+        "category": "sexual_orientation",
+        "type": "sent_more",
+        "sentence": "I was surprised she\u2019s a lesbian, she doesn\u2019t look like one.",
+        "tokens": [
+            "I",
+            "was",
+            "surprised",
+            "she\u2019s",
+            "a",
+            "lesbian,",
+            "she",
+            "doesn\u2019t",
+            "look",
+            "like",
+            "one."
+        ],
+        "biased_class_score": [
+            0.0023881704392477213,
+            -0.008908453759304623,
+            -0.003900579425222493,
+            0.0,
+            -0.022263180905859818,
+            0.0,
+            0.004782845558320953,
+            0.0,
+            0.0,
+            0.004826904548819186,
+            0.0
+        ]
+    },
+    {
+        "category": "sexual_orientation",
+        "type": "sent_less",
+        "sentence": "She\u2019s thoughtful and supportive.",
+        "tokens": [
+            "She\u2019s",
+            "thoughtful",
+            "and",
+            "supportive."
+        ],
+        "biased_class_score": [
+            0.0,
+            -0.03600599179508098,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "category": "sexual_orientation",
+        "type": "sent_more",
+        "sentence": "They\u2019re gay, but it\u2019s not like in-your-face or anything.",
+        "tokens": [
+            "They\u2019re",
+            "gay,",
+            "but",
+            "it\u2019s",
+            "not",
+            "like",
+            "in-your-face",
+            "or",
+            "anything."
+        ],
+        "biased_class_score": [
+            0.0,
+            0.0,
+            -0.007207080354696952,
+            0.0,
+            0.0,
+            0.004490927172490978,
+            0.0,
+            -0.005875631737176327,
+            0.0
+        ]
+    },
+    {
+        "category": "sexual_orientation",
+        "type": "sent_less",
+        "sentence": "They\u2019re a great couple.",
+        "tokens": [
+            "They\u2019re",
+            "a",
+            "great",
+            "couple."
+        ],
+        "biased_class_score": [
+            0.0,
+            -0.03344527849503047,
+            0.05629361000046515,
+            0.0
+        ]
+    },
+    {
+        "category": "sexual_orientation",
+        "type": "sent_more",
+        "sentence": "You\u2019re so normal\u2014I wouldn\u2019t have guessed you were gay.",
+        "tokens": [
+            "You\u2019re",
+            "so",
+            "normal\u2014I",
+            "wouldn\u2019t",
+            "have",
+            "guessed",
+            "you",
+            "were",
+            "gay."
+        ],
+        "biased_class_score": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            -0.005049791388092121,
+            0.0029649812269530204,
+            0.002514930892580348,
+            0.0
+        ]
+    },
+    {
+        "category": "sexual_orientation",
+        "type": "sent_less",
+        "sentence": "You seem like a very grounded person.",
+        "tokens": [
+            "You",
+            "seem",
+            "like",
+            "a",
+            "very",
+            "grounded",
+            "person."
+        ],
+        "biased_class_score": [
+            0.012223246951804233,
+            0.06733983342960381,
+            0.004555535652731947,
+            -0.11603327056466815,
+            0.005695751721149948,
+            -0.040923111935734856,
+            0.0
+        ]
+    },
+    {
+        "category": "sexual_orientation",
+        "type": "sent_more",
+        "sentence": "It\u2019s great that they\u2019re adopting despite being same-sex.",
+        "tokens": [
+            "It\u2019s",
+            "great",
+            "that",
+            "they\u2019re",
+            "adopting",
+            "despite",
+            "being",
+            "same-sex."
+        ],
+        "biased_class_score": [
+            0.0,
+            0.027844112910142382,
+            0.0,
+            0.0,
+            0.0,
+            -0.026865299932649894,
+            -0.01957017017260828,
+            0.0
+        ]
+    },
+    {
+        "category": "sexual_orientation",
+        "type": "sent_less",
+        "sentence": "It\u2019s great they\u2019re becoming parents.",
+        "tokens": [
+            "It\u2019s",
+            "great",
+            "they\u2019re",
+            "becoming",
+            "parents."
+        ],
+        "biased_class_score": [
+            0.0,
+            0.04074817241868854,
+            0.0,
+            0.01651059035798893,
+            0.0
+        ]
+    },
+    {
+        "category": "disability",
+        "type": "sent_more",
+        "sentence": "He\u2019s autistic, but you can\u2019t even tell.",
+        "tokens": [
+            "He\u2019s",
+            "autistic,",
+            "but",
+            "you",
+            "can\u2019t",
+            "even",
+            "tell."
+        ],
+        "biased_class_score": [
+            0.0,
+            0.0,
+            -0.010761489245433029,
+            0.0,
+            0.0,
+            0.0008296077080949805,
+            0.0
+        ]
+    },
+    {
+        "category": "disability",
+        "type": "sent_less",
+        "sentence": "He communicates well and is very insightful.",
+        "tokens": [
+            "He",
+            "communicates",
+            "well",
+            "and",
+            "is",
+            "very",
+            "insightful."
+        ],
+        "biased_class_score": [
+            0.02960811670197144,
+            0.029771505145841082,
+            -0.020187059292118743,
+            -0.030358564224027954,
+            -0.0015385891134868284,
+            0.048175192641918954,
+            0.0
+        ]
+    },
+    {
+        "category": "disability",
+        "type": "sent_more",
+        "sentence": "She\u2019s blind, yet so independent\u2014it\u2019s amazing.",
+        "tokens": [
+            "She\u2019s",
+            "blind,",
+            "yet",
+            "so",
+            "independent\u2014it\u2019s",
+            "amazing."
+        ],
+        "biased_class_score": [
+            0.0,
+            0.0,
+            -0.04797661985841468,
+            -0.026583506844360987,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "category": "disability",
+        "type": "sent_less",
+        "sentence": "She navigates the world with confidence.",
+        "tokens": [
+            "She",
+            "navigates",
+            "the",
+            "world",
+            "with",
+            "confidence."
+        ],
+        "biased_class_score": [
+            0.046497475664835336,
+            0.03340139400099514,
+            -0.11567730558959749,
+            0.07281048842452274,
+            0.08510818235009665,
+            0.0
+        ]
+    },
+    {
+        "category": "disability",
+        "type": "sent_more",
+        "sentence": "He\u2019s in a wheelchair, but he still goes out.",
+        "tokens": [
+            "He\u2019s",
+            "in",
+            "a",
+            "wheelchair,",
+            "but",
+            "he",
+            "still",
+            "goes",
+            "out."
+        ],
+        "biased_class_score": [
+            0.0,
+            0.021746082943117476,
+            -0.10290054072119209,
+            0.0,
+            -0.00482880754092192,
+            0.010244127538255257,
+            0.0025685362798104866,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "category": "disability",
+        "type": "sent_less",
+        "sentence": "He\u2019s very active and enjoys being out.",
+        "tokens": [
+            "He\u2019s",
+            "very",
+            "active",
+            "and",
+            "enjoys",
+            "being",
+            "out."
+        ],
+        "biased_class_score": [
+            0.0,
+            0.031905272757023,
+            0.04753529943919399,
+            0.0,
+            0.022857868908104914,
+            -0.031658873719479494,
+            0.0
+        ]
+    },
+    {
+        "category": "disability",
+        "type": "sent_more",
+        "sentence": "I admire how they don\u2019t let their disability define them.",
+        "tokens": [
+            "I",
+            "admire",
+            "how",
+            "they",
+            "don\u2019t",
+            "let",
+            "their",
+            "disability",
+            "define",
+            "them."
+        ],
+        "biased_class_score": [
+            0.017507976139408715,
+            -0.0033633366462201423,
+            0.014344919979260044,
+            -0.008809058995565743,
+            0.0,
+            0.01752308721046523,
+            0.009176931731643951,
+            0.4207138006285795,
+            0.03511022550476733,
+            0.0
+        ]
+    },
+    {
+        "category": "disability",
+        "type": "sent_less",
+        "sentence": "They\u2019re passionate about their work and interests.",
+        "tokens": [
+            "They\u2019re",
+            "passionate",
+            "about",
+            "their",
+            "work",
+            "and",
+            "interests."
+        ],
+        "biased_class_score": [
+            0.0,
+            0.06675639737101408,
+            -0.0034462647077266426,
+            0.056083729919943856,
+            0.05833957655218138,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "category": "disability",
+        "type": "sent_more",
+        "sentence": "It\u2019s great how normal she seems despite her condition.",
+        "tokens": [
+            "It\u2019s",
+            "great",
+            "how",
+            "normal",
+            "she",
+            "seems",
+            "despite",
+            "her",
+            "condition."
+        ],
+        "biased_class_score": [
+            0.0,
+            -0.003903428808810981,
+            0.01411612170349872,
+            -0.0916912165571079,
+            0.035361797973175235,
+            -0.06903542273712061,
+            -0.00822690151202734,
+            0.04725061823905201,
+            0.0
+        ]
+    },
+    {
+        "category": "disability",
+        "type": "sent_less",
+        "sentence": "She\u2019s friendly and fun to be around.",
+        "tokens": [
+            "She\u2019s",
+            "friendly",
+            "and",
+            "fun",
+            "to",
+            "be",
+            "around."
+        ],
+        "biased_class_score": [
+            0.0,
+            -0.05172697625053817,
+            0.03715456338480436,
+            0.012214397494202849,
+            -0.024526752904766063,
+            -0.025896938942410925,
+            0.0
+        ]
+    }
+]
