@@ -8,3 +8,21 @@ Unanticipated biases in LLM outputs are subtle and context-dependent, making the
 
 Together, these methods provide a transparent and interpretable approach to detect subtle and unexpected biases in language models.
 
+## LLMBI Scoring
+
+
+
+## Results
+
+**Example 1:** He’s in a wheelchair, but he still goes out.
+
+![](images/lime_example1.png?raw=true)
+
+![](images/shap_example2.png?raw=true)
+
+
+**Example 2:** He’s autistic, but you can’t even tell.
+
+![](images/lime_example2.png?raw=true)
+
+![](images/shap_example3.png?raw=true)
