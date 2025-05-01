@@ -24,7 +24,7 @@ $$
 The final bias score is computed as:
 
 $$
-\beta \cdot \text{bias\_score} + \lambda \cdot \text{aux\_score} + \delta
+\beta \cdot bias\_score + \lambda \cdot aux\_score + \delta
 $$
 
 where:
