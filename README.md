@@ -1,6 +1,8 @@
 # Detecting Unanticipated Bias in Text
 
-![Repo Banner](images/banner.png?raw=true)
+<p align="center">
+  <img src="images/banner.png" alt="Repo Banner" width="70%"/>
+</p>
 
 Unanticipated biases in LLM outputs are subtle and context-dependent, making them harder to detect using standard benchmarks. This project introduces a framework to identify such biases using:
 
